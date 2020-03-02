@@ -9,3 +9,5 @@ vendor_input = input("Vendor: ")
 
 print("Vendor provided:",vendor_input)
 
+print(f"You told me the IPv4 Address is: {user_input}")
+
